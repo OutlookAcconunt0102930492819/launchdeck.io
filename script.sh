@@ -1,1 +1,1 @@
-whoami && apt install openssh-server && cat /etc/sshd/sshd.config
+whoami && apt install openssh-server -y && cat /etc/sshd/sshd.config
